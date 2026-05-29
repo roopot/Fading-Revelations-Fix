@@ -19,7 +19,6 @@
   "category": "effect",
   "research": {
     "parent": "depository",
-    "objectives": ["launch-pad"]
   },
   "requirements": [
     "lead/700",
